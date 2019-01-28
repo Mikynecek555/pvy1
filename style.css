@@ -1,0 +1,51 @@
+
+header.bg-primary{
+    background-color: royalblue!important;
+}
+
+h1, h2, h3 {
+    background-color: rgb(255, 80, 50);
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 12px; 
+    margin: 1px; 
+}
+
+h1 {
+    color: gray;
+    font-size: 50px;
+    border: 5px solid black
+}
+
+h2 {
+    font-size: 150%;
+    color: yellow;
+    border: 5px dashed black
+}
+p {
+    font-family: 'Arial Narrow';
+}           
+
+.lojza{
+    color: #000fff;
+}
+#it1{
+    text-transform: uppercase;
+}
+[title]{
+    font-style: italic;
+    text-decoration: underline;
+}
+a{
+    color: red;
+    text-decoration: underline;
+    display: block;
+    padding: 10px;
+}
+a:hover{
+    color: green;
+    text-decoration: none;
+    font-size: 120%;
+}
